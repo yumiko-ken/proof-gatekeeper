@@ -1,0 +1,1 @@
+{"functions":{"api/agent.mjs":{"includeFiles":"circuits/**","maxDuration":60}},"rewrites":[{"destination":"/api/agent","source":"/agent"}]}
